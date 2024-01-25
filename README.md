@@ -1,4 +1,4 @@
-# ToDo List App with Redux Toolkit
+# TaskVault App with Redux Toolkit
 [give it a try](https://todo-list-seven-ivory.vercel.app/)
 
 ![](https://github.com/gorillamindset/TodoList/assets/138226552/7d168a62-95e6-4840-95c2-6468f02e4348)
