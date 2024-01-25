@@ -1,5 +1,7 @@
 # ToDo List App with Redux Toolkit
 
+![](https://github.com/gorillamindset/TodoList/assets/138226552/7d168a62-95e6-4840-95c2-6468f02e4348)
+
 A simple ToDo List app built using React and Redux Toolkit for state management.
 
 ## Features
@@ -12,6 +14,7 @@ A simple ToDo List app built using React and Redux Toolkit for state management.
 ## Technologies Used
 
 - React
+
 - Redux Toolkit
 - HTML
 - CSS
